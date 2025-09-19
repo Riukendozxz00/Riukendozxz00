@@ -83,7 +83,7 @@ At **Radial Llantas**, I design and maintain systems that connect sales, invento
 
 ---
 
-## Streak 🌠
+## 🌠 Streak 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Riukendozxz00&theme=radical" alt="GitHub Streak" />
