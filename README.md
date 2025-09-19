@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I’m Daniel Ortíz
 
-<!--
-**Riukendozxz00/Riukendozxz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer passionate about building scalable APIs and automating e-commerce operations. Currently at Radial Llantas, I design and maintain robust systems that keep online sales and inventory in sync across multiple platforms.
 
-Here are some ideas to get you started:
+💻 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Development: Creation and maintenance of RESTful APIs that power internal applications and client integrations.
+
+Database Design & Optimization: Hands-on with MySQL, ensuring efficient queries and stable performance at scale.
+
+E-commerce Integrations: Automating sales and inventory processes by connecting with Shopify, Amazon, and Mercado Libre.
+
+Process Automation: Streamlining internal workflows to boost reliability and speed.
+
+⚡ Tech Stack
+
+Languages: JavaScript (Node.js), Python
+
+Databases: MySQL
+
+Tools & Platforms: Postman, Shopify, Amazon, Mercado Libre
+
+🚀 Currently
+
+Engineering student at CETI, sharpening my software engineering skills.
+
+Focused on high-performance backend systems and continuous improvement of internal apps.
+
+📫 Let’s Connect
+
+Email: ing.ddortiz@gmail.com
+
+Location: Guadalajara, Jalisco, MX
+
+“Clean code, solid architecture, and a touch of automation—because great backend work should feel invisible.”
