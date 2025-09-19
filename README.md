@@ -4,6 +4,10 @@
 
 ---
 
+<img width="1024" height="1024" alt="19 sept 2025, 13_26_17" src="https://github.com/user-attachments/assets/12375e3f-33a6-4e73-a8e4-8c9f4ae22b59" />
+
+---
+
 ## 🚀 What I Do
 
 - **RESTful APIs**: Design and develop robust APIs for internal applications and third-party services.  
