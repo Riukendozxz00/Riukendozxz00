@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/12375e3f-33a6-4e73-a8e4-8c9f4ae22b59" width="500" alt="Backend Quote Banner" />
+  <img src="https://github.com/user-attachments/assets/12375e3f-33a6-4e73-a8e4-8c9f4ae22b59" width="600" alt="Backend Quote Banner" />
 </p>
 
 <div align="center">
