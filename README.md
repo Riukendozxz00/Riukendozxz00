@@ -1,35 +1,76 @@
-👋 Hi, I’m Daniel Ortíz
+# 🛠️ Daniel Ortíz – Backend Developer
 
-Backend developer passionate about building scalable APIs and automating e-commerce operations. Currently at Radial Llantas, I design and maintain robust systems that keep online sales and inventory in sync across multiple platforms.
+**Backend developer** specialized in integrating and automating **e-commerce** processes at scale. At **Radial Llantas**, I design and maintain systems that connect sales, inventory, and operations across multiple platforms with a solid, high-performance backend.
 
-💻 What I Do
+---
 
-Backend Development: Creation and maintenance of RESTful APIs that power internal applications and client integrations.
+## 🚀 What I Do
 
-Database Design & Optimization: Hands-on with MySQL, ensuring efficient queries and stable performance at scale.
+- **RESTful APIs**: Design and develop robust APIs for internal applications and third-party services.  
+- **E-commerce Automation**: Integrations with **Shopify**, **Amazon**, and **Mercado Libre** to synchronize inventory and sales in real time.  
+- **Database Design & Optimization**: Architecture, optimization, and maintenance of **MySQL** for top performance and stability.  
+- **Continuous Optimization**: Constantly improving backend processes to keep systems fast, stable, and reliable.
 
-E-commerce Integrations: Automating sales and inventory processes by connecting with Shopify, Amazon, and Mercado Libre.
+---
 
-Process Automation: Streamlining internal workflows to boost reliability and speed.
+## 🧰 Tech Stack
 
-⚡ Tech Stack
+### Languages & Frameworks
+- **JavaScript (Node.js)** and **Python** for backend development, automation scripts, and data exploration  
+- **Express.js** for building scalable, high-performance RESTful APIs and microservices  
+- Performed **Exploratory Data Analysis (EDA)** with Python libraries such as **pandas**, **NumPy**, and **matplotlib** to uncover trends and support business decisions  
+- Strong grasp of modern **ES6+** features and asynchronous programming
 
-Languages: JavaScript (Node.js), Python
+### Databases & Data Layer
+- **MySQL**, Firebase, MongoDB — relational and NoSQL data management  
+- **Redis** — in-memory caching layer for speed and scalability
 
-Databases: MySQL
+### DevOps & Infrastructure
+- **PM2** for process management  
+- **Nginx** as a reverse proxy and load balancer  
+- **Docker** for containerized deployments  
+- **Git & GitHub Actions** for version control and CI/CD  
+- **DigitalOcean / AWS** for cloud hosting and storage  
+- **Certbot / Let’s Encrypt** for SSL automation  
 
-Tools & Platforms: Postman, Shopify, Amazon, Mercado Libre
+### Integrations & APIs
+- **Shopify GraphQL & REST APIs**  
+- **Mercado Libre API**  
+- **Amazon MWS / SP-API**  
 
-🚀 Currently
+### Testing & Monitoring
+- **Postman** for API testing  
+- **Jest / Mocha & Chai** for automated testing  
+- **Grafana + Prometheus** or **New Relic** for performance monitoring  
 
-Engineering student at CETI, sharpening my software engineering skills.
+### Utilities
+- **Luxon** for advanced date/time handling  
+- **dotenv** for environment variable management  
+- **Selenium** for scraping
 
-Focused on high-performance backend systems and continuous improvement of internal apps.
+---
 
-📫 Let’s Connect
+## 📈 GitHub Stats
 
-Email: ing.ddortiz@gmail.com
+![Riukendozxz00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riukendozxz00&show_icons=true&theme=radical)
 
-Location: Guadalajara, Jalisco, MX
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riukendozxz00&layout=compact&theme=radical)
 
-“Clean code, solid architecture, and a touch of automation—because great backend work should feel invisible.”
+---
+
+## 🎯 Currently
+- Always looking to optimize processes and automate complex tasks.
+
+---
+
+## 📬 Contact
+- **Email:** [ing.ddortiz@gmail.com](mailto:ing.ddortiz@gmail.com)  
+
+---
+
+> _“The best backend is the one you don’t notice—but it holds everything together.”_
+
+---
+
+![Backend Quote](./assets/backend-quote.png)
+<!-- ↑ Replace ./assets/backend-quote.png with the actual path of the image containing the quote -->
