@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="35px"> Hey there! I'm a Backend Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=infinity&width=700&lines=Backend+Developer+%7C+E-commerce+Specialist;Building+Scalable+Systems+at+Radial+Llantas;API+Integration+%7C+Automation+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=infinity&width=700&lines=Backend+Developer+%7C+E-commerce+Specialist; Building+Scalable+Systems+at+Radial+Llantas;API+Integration+%7C+Automation+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/12375e3f-33a6-4e73-a8e4-8c9f4ae22b59" width="600" alt="Backend Quote Banner" />
+  <img src="https://github.com/user-attachments/assets/12375e3f-33a6-4e73-a8e4-8c9f4ae22b59" width="500" alt="Backend Quote Banner" />
 </p>
 
 <div align="center">
