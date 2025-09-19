@@ -60,7 +60,3 @@
 
 > _“The best backend is the one you don’t notice—but it holds everything together.”_
 
----
-
-![Backend Quote](./assets/backend-quote.png)
-<!-- ↑ Replace ./assets/backend-quote.png with the actual path of the image containing the quote -->
