@@ -48,16 +48,6 @@
 - **dotenv** for environment variable management  
 - **Selenium** for scraping
 
----
-
-## 📈 GitHub Stats
-
-![Riukendozxz00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riukendozxz00&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riukendozxz00&layout=compact&theme=radical)
-
----
-
 ## 🎯 Currently
 - Always looking to optimize processes and automate complex tasks.
 
