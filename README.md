@@ -1,4 +1,4 @@
-# 🛠️ Daniel Ortíz – Backend Developer
+# 🛠️ Backend Developer
 
 **Backend developer** specialized in integrating and automating **e-commerce** processes at scale. At **Radial Llantas**, I design and maintain systems that connect sales, inventory, and operations across multiple platforms with a solid, high-performance backend.
 
