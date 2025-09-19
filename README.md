@@ -83,15 +83,12 @@ At **Radial Llantas**, I design and maintain systems that connect sales, invento
 
 ---
 
-## 📈 GitHub Stats
+## Streak 🌠
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riukendozxz00&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" />
+  <img src="https://streak-stats.demolab.com/?user=Riukendozxz00&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riukendozxz00&layout=compact&theme=radical&langs_count=8&cache_seconds=1800&v=2" />
-</p>
 
 ---
 
